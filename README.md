@@ -7,6 +7,11 @@ DimLights - A Vanilla JS Project
 
 ##
 
+Live Application 
+
+[![Live Demo Here](https://img.shields.io/badge/Web%20App--blue.svg)](https://dimlights.herokuapp.com)
+
+
 #### Description 
 * Built an Application that leverages power of vanilla JS to display something awesome.
 
